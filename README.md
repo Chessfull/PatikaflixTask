@@ -5,11 +5,10 @@
 
 :mag: Then, perform the following tasks:
 
-- Create a new list of comedy series from the initial list. This list should only include the Series Name / Genre /
-
-- Director (requiring another class).
+- Create a new list of comedy series from the initial list. This list should only include the Series Name / Genre / Director (requiring another class).
 
 - Print all elements of this new list with all their properties. Ensure the output is sorted first by series names, then by director names.
+- 
 ### :incoming_envelope: Contact Information :incoming_envelope:
 
 For any questions or further information, please don't hesitate to contact me :pray:
